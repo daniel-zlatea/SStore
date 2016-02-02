@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Projects\SStore\Website</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Store.Web.dll">
+      <publishTime>02/02/2016 15:52:11</publishTime>
+    </File>
+    <File Include="bin/Store.Web.pdb">
+      <publishTime>02/02/2016 15:52:11</publishTime>
+    </File>
+    <File Include="layouts/QueryableRulesRunner.ascx">
+      <publishTime>02/02/2016 15:51:46</publishTime>
+    </File>
+    <File Include="layouts/Sample Datasource Sublayout.ascx">
+      <publishTime>02/02/2016 15:51:46</publishTime>
+    </File>
+    <File Include="layouts/Sample Inner Sublayout.ascx">
+      <publishTime>02/02/2016 15:51:46</publishTime>
+    </File>
+    <File Include="layouts/Sample layout.aspx">
+      <publishTime>02/02/2016 15:52:10</publishTime>
+    </File>
+    <File Include="layouts/Sample Sublayout.ascx">
+      <publishTime>02/02/2016 15:51:46</publishTime>
+    </File>
+    <File Include="layouts/system/Social/Connector/Login with Facebook.ascx">
+      <publishTime>02/02/2016 15:51:46</publishTime>
+    </File>
+    <File Include="layouts/system/Social/Connector/Login with Google.ascx">
+      <publishTime>02/02/2016 15:51:46</publishTime>
+    </File>
+    <File Include="layouts/system/Social/Connector/Login with LinkedIn.ascx">
+      <publishTime>02/02/2016 15:51:46</publishTime>
+    </File>
+    <File Include="layouts/system/Social/Connector/Login with Twitter.ascx">
+      <publishTime>02/02/2016 15:51:46</publishTime>
+    </File>
+    <File Include="layouts/system/Social/Connector/SocialLogin.ashx">
+      <publishTime>02/02/2016 15:51:46</publishTime>
+    </File>
+    <File Include="layouts/system/Social/Connector/Style.css">
+      <publishTime>02/02/2016 15:51:46</publishTime>
+    </File>
+    <File Include="layouts/system/Social/Sharing/GooglePlusOneButton.ascx">
+      <publishTime>02/02/2016 15:51:46</publishTime>
+    </File>
+    <File Include="layouts/system/Social/Sharing/LikeButton.ascx">
+      <publishTime>02/02/2016 15:51:46</publishTime>
+    </File>
+    <File Include="layouts/system/Social/Sharing/LinkedInShareButton.ascx">
+      <publishTime>02/02/2016 15:51:46</publishTime>
+    </File>
+    <File Include="layouts/system/Social/Sharing/SocialEvents.aspx">
+      <publishTime>02/02/2016 15:51:46</publishTime>
+    </File>
+    <File Include="layouts/system/Social/Sharing/TweetButton.ascx">
+      <publishTime>02/02/2016 15:51:46</publishTime>
+    </File>
+    <File Include="layouts/system/VIChecker.aspx">
+      <publishTime>02/02/2016 15:51:46</publishTime>
+    </File>
+    <File Include="layouts/system/VisitorIdentification.ascx">
+      <publishTime>02/02/2016 15:51:46</publishTime>
+    </File>
+    <File Include="layouts/system/VisitorIdentification.aspx">
+      <publishTime>02/02/2016 15:51:46</publishTime>
+    </File>
+    <File Include="layouts/system/VisitorIdentification.js">
+      <publishTime>02/02/2016 15:51:46</publishTime>
+    </File>
+    <File Include="layouts/system/VisitorIdentificationCss.aspx">
+      <publishTime>02/02/2016 15:51:46</publishTime>
+    </File>
+    <File Include="layouts/xmlcontrol.aspx">
+      <publishTime>02/02/2016 15:51:46</publishTime>
+    </File>
+    <File Include="Views/Shared/ExperienceExplorerView.cshtml">
+      <publishTime>02/02/2016 15:51:43</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>02/02/2016 15:51:43</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
