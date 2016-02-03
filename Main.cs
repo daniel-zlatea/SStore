@@ -1,4 +1,4 @@
-publuc statcic void MAin()
+public static void Main()
 {
 	
 }
