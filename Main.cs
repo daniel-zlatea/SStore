@@ -1,0 +1,4 @@
+publuc statcic void MAin()
+{
+	
+}
