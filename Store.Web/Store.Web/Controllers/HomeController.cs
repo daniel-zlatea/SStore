@@ -5,7 +5,11 @@ using System.Web;
 
 namespace Store.Web.Controllers
 {
-    public class HomeController
+    public class HomeController 
     {
+        public HomeController()
+        {
+            
+        }
     }
 }
