@@ -63,7 +63,7 @@
     <Content Include="layouts\system\Social\Connector\Login with Twitter.ascx" />
     <Content Include="layouts\system\Social\Connector\Style.css" />
     <Content Include="layouts\system\Social\Sharing\GooglePlusOneButton.ascx" />
-    <Content Include="layouts\system\Social\Sharing\LikeButton.ascx" />
+    <Content Include="layouts\system\Social\Sharing\LikeButtonf.ascx" />
     <Content Include="layouts\system\Social\Sharing\LinkedInShareButton.ascx" />
     <Content Include="layouts\system\Social\Sharing\SocialEvents.aspx" />
     <Content Include="layouts\system\Social\Sharing\TweetButton.ascx" />
